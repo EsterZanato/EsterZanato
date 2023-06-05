@@ -1,5 +1,6 @@
 ### Oii! Me chamo Ester 💞
-
+### Estou estudando HTML, CSS e JS
+### Pretendo trabalhar sendo uma profissional em Front-end
 <!--
 **EsterZanato/EsterZanato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
