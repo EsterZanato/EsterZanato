@@ -36,7 +36,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/EsterZanato/EsterZanato/output/snake.svg" alt="Snake animation" />
-
-###
