@@ -5,14 +5,14 @@
 
 ---
 
- <h2 align="center">Just a student eager to learn about technology</h2>
+ <h2 align="center">A student eager to learn about technology</h2>
 
  ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](#)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ester-zanato-6b9688271/)
  
 ###
-- Beginner in web development 📚
+- Web developer 📚
 - Addicted to studying 👩‍💻
 - Working with NextJs (JavaScript), Tailwind CSS and C# 🤍
 - Pixel art enthusiast ✨
