@@ -14,7 +14,7 @@
 ###
 - Web developer 📚
 - Addicted to studying 👩‍💻
-- Working with NextJs (JavaScript), Tailwind CSS and C# 🤍
+- Working with React (JavaScript), Java, Tailwind CSS and C# 🤍
 - Pixel art enthusiast ✨
 - Accepting ideas or invitations for new projects 💻
 
